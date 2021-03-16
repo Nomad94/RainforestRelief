@@ -1,0 +1,1946 @@
+
+/* XL Device :1650px. */
+@media (min-width: 1450px) and (max-width: 1700px) {
+    .container{
+        max-width: 1367px;
+    }
+    .involved-item p {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .involved-item img {
+        width: 100px;
+        margin-bottom: 20px;
+    }
+    .involved-item h2 {
+        font-size: 36px;
+    }
+    .involved-item {
+        height: 450px;
+    }
+    .title {
+        font-size: 50px;
+    }
+    .author span {
+        letter-spacing: 0;
+        font-size: 16px;
+    }
+    .news-slide-item p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 18px;
+    }
+    .by-box h4 {
+        font-size: 36px;
+    }
+    .footer-left p {
+        font-size: 20px;
+    }
+    .our-mission-area p {
+        font-size: 24px;
+    }
+    .news-slider .owl-prev {
+        left: -40px;
+    }
+    .news-slider .owl-next {
+        right: -40px;
+    }
+    .news-slider .owl-nav i {
+        font-size: 40px;
+    }
+    .donate-area h2 {
+        font-size: 40px;
+    }
+  
+    .hero-text h1 {
+        font-size: 110px;
+    }
+    .bynumber-inner p {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .bynumber-box {
+        height: 360px;
+    }
+    .our-values-area {
+        margin-top: 96px;
+    }
+    .article-content p {
+        font-size: 24px;
+    }
+    .article-title h2 {
+        font-size: 50px;
+    }
+    .started-content p {
+        font-size: 22px;
+    }
+    .started-btn a {
+        font-size: 20px;
+        padding: 16px 0px;
+        width: 240px;
+    }
+    .area-title h2 {
+        font-size: 50px;
+    }
+
+
+}
+
+
+
+
+/* XL Device :1449px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .container{
+        max-width: 1250px;
+    }
+    .title {
+        font-size: 45px;
+    }
+    .our-mission-area p {
+        font-size: 22px;
+    }
+    .involved-item img {
+        width: 100px;
+        margin-bottom: 20px;
+    }
+    .involved-item h2 {
+        font-size: 36px;
+    }
+    .involved-item p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .news-slider .owl-prev {
+        left: -40px;
+    }
+    .news-slider .owl-next {
+        right: -40px;
+    }
+    .news-slider .owl-nav i {
+        font-size: 40px;
+    }
+    .author span {
+        letter-spacing: 0;
+        margin-right: 15px;
+        font-size: 14px;
+    }
+    .news-slide-item p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 15px;
+    }
+    .donate-area h2 {
+        font-size: 36px;
+    }
+    .bynumber-area h2 {
+        font-size: 36px;
+    }
+    .by-box h4 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 80px 0;
+    }
+    .main_menu ul li a {
+        font-size: 18px;
+    }
+    .header-btn {
+        margin-left: 65px;
+    }
+    .logo img {
+        width: 190px;
+    }
+    .footer-left p {
+        font-size: 18px;
+    }
+    .footer-left a {
+        font-size: 18px;
+    }
+    .footer-link ul li a {
+        font-size: 18px;
+    }
+    .subscription p {
+        font-size: 18px;
+    }
+    .copyright p {
+        font-size: 18px;
+    }
+    .subscription-form button {
+        height: 56px;
+        padding: 0 20px;
+        font-size: 18px;
+        float: left;
+        width: 100%;
+    }
+    .subscription-form input {
+        height: 56px;
+        font-size: 18px;
+    }
+    .col-lg-4.col-md-4.ml-0 {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+    .area-title h2 {
+        font-size: 45px;
+    }
+    .area-title p {
+        font-size: 24px;
+    }
+    .whatdo-box h4 {
+        font-size: 28px;
+    }
+    .whatdo-box p {
+        font-size: 24px;
+    }
+    .values-text p {
+        font-size: 22px;
+    }
+    .Page_banner {
+        height: 350px;
+    }
+    .hero-area {
+        height: 650px;
+    }
+    .event-feature-txt p {
+        font-size: 24px;
+        letter-spacing: 0;
+    }
+    .event-feature-txt h2 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+   
+    .hero-text h1 {
+        font-size: 90px;
+    }
+    .hero-text p {
+        font-size: 32px;
+    }
+    .bynumber-inner p {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .bynumber-box {
+        height: 320px;
+    }
+    .bynumber-inner h2 span {
+        color: #B4C2B7;
+        font-size: 34px;
+    }
+    .bynumber-inner h2 {
+        font-size: 40px;
+    }
+    .bynumber-inner h2 {
+        margin-bottom: 55px;
+    }
+    .our-values-area {
+        margin-top: 96px;
+    }
+    .involved-item {
+        height: 500px;
+        padding: 0 25px;
+    }
+    .Page_banner.article-banner {
+        height: 500px;
+    }
+    .article-title h2 {
+        font-size: 45px;
+    }
+    .article-content p {
+        font-size: 22px;
+    }
+    .qut-txt p {
+        font-size: 24px;
+    }
+    .started-btn a {
+        font-size: 18px;
+        padding: 16px 0px;
+        width: 220px;
+    }
+    .area-title h2 {
+        font-size: 40px;
+    }
+    .started-content p {
+        font-size: 20px;
+    }
+    .started-txt p {
+        font-size: 18px;
+    }
+    .calander-ion {
+        font-size: 50px;
+    }
+    .zoom-logo img {
+        width: 250px;
+    }
+    .pack-btn button {
+        font-size: 24px;
+        height: 80px;
+    }
+    .custom-dnt-btn button {
+        height: 80px;
+        font-size: 22px;
+    }
+    .belling-info-field input {
+        height: 80px;
+        padding: 20px;
+        font-size: 20px;
+    }
+    .belling-info-field .nice-select {
+        height: 80px;
+        font-size: 20px;
+        line-height: 80px;
+        padding: 0 20px;
+    }
+    .belling-info-field label {
+        font-size: 24px;
+    }
+    .acdept-trms p {
+        font-size: 22px;
+    }
+    .donate-now-btn button {
+        height: 80px;
+        font-size: 22px;
+    }
+    .custom-amount {
+        height: 80px;
+    }
+    .team-single img {
+        max-width: 170px;
+        border-radius: 56px;
+        margin-bottom: 30px;
+    }
+    .involved-warp .team-single {
+        margin: 25px 0px;
+    }
+    .team-txt p {
+        font-size: 22px;
+    }
+    .team-txt h4 {
+        font-size: 26px;
+    }
+
+    .modal-dialog {
+        max-width: 1000px;
+        margin: 1.75rem auto;
+    }
+    .congras-right-inner {
+        padding: 30px 40px;
+    }
+    .congrats-left {
+        width: 50%;
+        padding: 35px 40px;
+    }
+    .congrats-left p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .congrats-left h4 {
+        font-size: 40px;
+        margin-top: 40px;
+    }
+    .share-txt p {
+        font-size: 22px;
+        max-width: 300px;
+    }
+    .share-btn a {
+        width: 45%;
+    }
+    .congrats-title h2 {
+        font-size: 32px;
+    }
+    .share-title h3 {
+        font-size: 24px;
+    }
+    .congrats-warp {
+        display: inline-block;
+        width: 100%;
+        height: 450px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .container{
+        max-width: 1170px;
+    }
+    header {
+        padding: 12px 0px;
+    }
+    .values-text p {
+        font-size: 22px;
+    }
+    .values-text h4 {
+        font-size: 28px;
+    }
+    .news-area {
+        margin: 0 35px;
+    }
+    .hero-area {
+        height: 580px;
+    }
+    .bynumber-inner p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .bynumber-box {
+        height: 280px;
+    }
+    .bynumber-inner h2 {
+        margin-bottom: 40px;
+    }
+    .bynumber-inner {
+        padding: 60px 40px;
+    }
+    .news-slide-item a {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .news-slide-item h3 {
+        letter-spacing: 0;
+        font-size: 18px;
+    }
+    .involved-area {
+        padding-top: 200px;
+    }
+    .our-values-area {
+        margin-top: 80px;
+    }
+    .event-feature-txt p {
+        font-size: 20px;
+    }
+    .article-content p {
+        font-size: 20px;
+    }
+    .team-txt p {
+        font-size: 20px;
+    }
+    .team-txt h4 {
+        font-size: 24px;
+    }
+    .team-single img {
+        max-width: 170px;
+        border-radius: 56px;
+        margin-bottom: 30px;
+    }
+    .involved-warp .team-single {
+        margin: 25px 0px;
+    }
+    .modal-dialog {
+        max-width: 1000px;
+        margin: 1.75rem auto;
+    }
+    .congras-right-inner {
+        padding: 30px 40px;
+    }
+    .congrats-left {
+        width: 50%;
+        padding: 35px 40px;
+    }
+    .congrats-left p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .congrats-left h4 {
+        font-size: 40px;
+        margin-top: 40px;
+    }
+    .share-txt p {
+        font-size: 22px;
+        max-width: 300px;
+    }
+    .share-btn a {
+        width: 45%;
+    }
+    .congrats-title h2 {
+        font-size: 32px;
+    }
+    .share-title h3 {
+        font-size: 24px;
+    }
+    .congrats-warp {
+        display: inline-block;
+        width: 100%;
+        height: 450px;
+    }
+
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .title {
+        font-size: 36px;
+    }
+    .our-mission-area p {
+        font-size: 20px;
+    }
+    .involved-item img {
+        width: 70px;
+        margin-bottom: 20px;
+    }
+    .involved-item h2 {
+        font-size: 28px;
+    }
+    .involved-item p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .news-slider .owl-nav i {
+        font-size: 30px;
+    }
+    .author span {
+        letter-spacing: 0;
+        margin-right: 15px;
+        font-size: 14px;
+    }
+    .news-slide-item p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 15px;
+    }
+    .donate-area h2 {
+        font-size: 36px;
+    }
+    .bynumber-area h2 {
+        font-size: 28px;
+    }
+    .by-box h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 80px 0;
+    }
+    .main_menu ul li a {
+        font-size: 16px;
+    }
+    .header-btn {
+        margin-left: 45px;
+    }
+    .logo img {
+        width: 190px;
+    }
+    .footer-left p {
+        font-size: 18px;
+    }
+    .footer-left a {
+        font-size: 18px;
+    }
+    .footer-link ul li a {
+        font-size: 16px;
+    }
+    .subscription p {
+        font-size: 16px;
+    }
+    .copyright p {
+        font-size: 16px;
+    }
+    .subscription-form button {
+        height: 56px;
+        padding: 0 20px;
+        font-size: 18px;
+        float: left;
+        width: 100%;
+    }
+    .subscription-form input {
+        height: 56px;
+        font-size: 18px;
+    }
+    .col-lg-4.col-md-4.ml-0 {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+    header {
+        padding: 12px 0px;
+    }
+    .main_menu ul li {
+        display: inline;
+        margin-left: 30px;
+    }
+    .involved-item {
+        height: 350px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .author span {
+        margin-right: 6px;
+        font-size: 12px;
+    }
+    .slide-2 .news-slide-item p {
+        font-size: 15px;
+    }
+    .footer-link h4 {
+        font-size: 24px;
+    }
+    .subscription h4 {
+        font-size: 22px;
+    }
+    .subscription-form button {
+        font-size: 16px;
+    }
+    .footer-logo img {
+        width: 185px;
+        margin-left: -10px;
+    }
+    .footer-logo img {
+        width: 185px
+    }
+    .news-slider {
+        padding: 0 40px;
+    }
+    .news-slider .owl-prev {
+        left: 0;
+    }
+    .news-slider .owl-next {
+        right: 0;
+    }
+    .news-slider .owl-nav div {
+        top: 28%;
+    }
+    .news-slide-item h3 {
+        font-size: 24px;
+    }
+    .common-btn {
+        padding: 10px 30px;
+        letter-spacing: .2px;
+        font-size: 15px;
+    }
+    .area-title h2 {
+        font-size: 45px;
+    }
+    .area-title p {
+        font-size: 24px;
+    }
+    .whatdo-box h4 {
+        font-size: 28px;
+    }
+    .whatdo-box p {
+        font-size: 24px;
+    }
+    .whatdo-box {
+        margin: 0px;
+    }
+   
+
+    
+    .values-text p {
+        font-size: 22px;
+    }
+    .values-text h4 {
+        font-size: 28px;
+    }
+    .Page_banner {
+        height: 350px;
+    }
+    .hero-area {
+        height: 480px;
+    }
+    .event-feature-txt p {
+        font-size: 24px;
+        letter-spacing: 0;
+    }
+    .event-feature-txt h2 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+  
+    
+    .hero-text h1 {
+        font-size: 80px;
+    }
+    .hero-text p {
+        font-size: 30px;
+    }
+  
+    .bynumber-box {
+        height: 240px;
+    }
+    .bynumber-area h2 {
+        font-size: 36px;
+    }
+    .bynumber-inner h2 span {
+        font-size: 30px;
+    }
+    .bynumber-inner {
+        padding: 50px 25px;
+    }
+    .bynumber-inner h2 {
+        margin-bottom: 35px;
+    }
+    .bynumber-inner p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .news-slide-item a {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .involved-area {
+        padding-top: 150px;
+    }
+    .our-values-area {
+        margin-top: 40px;
+    }
+    .article-title h2 {
+        font-size: 36px;
+    }
+    .article-content p {
+        font-size: 20px;
+    }
+    .qut-txt p {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .started-content p {
+        font-size: 20px;
+    }
+    .started-btn a {
+        font-size: 18px;
+        padding: 12px 0px;
+        width: 210px;
+    }
+    .started-txt p {
+        font-size: 18px;
+    }
+    .calander-ion {
+        font-size: 50px;
+    }
+    .area-title h2 {
+        font-size: 36px;
+    }
+    .area-title {
+        margin-bottom: 70px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .area-title p {
+        font-size: 20px;
+    }
+    .team-single {
+        margin: 25px 0;
+    }
+    .team-txt h4 {
+        font-size: 25px;
+    }
+    .team-txt p {
+        font-size: 22px;
+    }
+    .team-single img {
+        max-width: 170px;
+    }
+    .zoom-logo img {
+        width: 200px;
+        margin-top: 50px;
+    }
+    .pack-btn button {
+        font-size: 24px;
+        height: 80px;
+    }
+    .custom-dnt-btn button {
+        height: 80px;
+        font-size: 22px;
+    }
+    .belling-info-field input {
+        height: 80px;
+        padding: 20px;
+        font-size: 20px;
+    }
+    .belling-info-field .nice-select {
+        height: 80px;
+        font-size: 20px;
+        line-height: 80px;
+        padding: 0 20px;
+    }
+    .belling-info-field label {
+        font-size: 24px;
+    }
+    .acdept-trms p {
+        font-size: 22px;
+    }
+    .donate-now-btn button {
+        height: 80px;
+        font-size: 20px;
+    }
+    .custom-amount {
+        height: 80px;
+    }
+
+    .modal-dialog {
+        max-width: 800px;
+        margin: 1.75rem auto;
+    }
+    .congras-right-inner {
+        padding: 30px 25px;
+        padding-top: 60px;
+    }
+    .congrats-left {
+        width: 50%;
+        padding: 35px 30px;
+    }
+    .congrats-left p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .congrats-left h4 {
+        font-size: 30px;
+        margin-top: 40px;
+    }
+    .share-txt p {
+        font-size: 18px;
+        max-width: 330px;
+    }
+    .share-btn a {
+        width: 45%;
+    }
+    .congrats-title h2 {
+        font-size: 28px;
+    }
+    .share-title h3 {
+        font-size: 24px;
+    }
+    .congrats-warp {
+        display: inline-block;
+        width: 100%;
+        height: 450px;
+    }
+    .share-btn a {
+        color: #fff;
+        letter-spacing: 0;
+        font-size: 14px;
+    }
+    .modal-body {
+        padding: 35px;
+    }
+    .congrats-title {
+        margin-bottom: 30px;
+    }
+    .modal-clg {
+        font-size: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .title {
+        font-size: 36px;
+    }
+    .our-mission-area p {
+        font-size: 18px;
+    }
+    .involved-item img {
+        width: 50px;
+        margin-bottom: 20px;
+    }
+    .involved-item h2 {
+        font-size: 24px;
+    }
+    .involved-item p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .news-slider .owl-nav i {
+        font-size: 30px;
+    }
+    .author span {
+        letter-spacing: 0;
+        margin-right: 15px;
+        font-size: 14px;
+    }
+    .news-slide-item p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 15px;
+    }
+    .donate-area h2 {
+        font-size: 36px;
+    }
+    .bynumber-area h2 {
+        font-size: 28px;
+    }
+    .by-box h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 80px 0;
+    }
+    .main_menu ul li a {
+        font-size: 15px;
+         letter-spacing: 0;   
+     }
+    .header-btn {
+        margin-left: 30px;
+    }
+    .logo img {
+        width: 190px;
+    }
+    .footer-left p {
+        font-size: 15px;
+    }
+    .footer-left a {
+        font-size: 16px;
+    }
+    .footer-link ul li a {
+        font-size: 16px;
+    }
+    .subscription p {
+        font-size: 16px;
+    }
+    .copyright p {
+        font-size: 16px;
+    }
+    .subscription-form button {
+        height: 56px;
+        padding: 0 20px;
+        font-size: 16px;
+        float: left;
+        width: 100%;
+    }
+    .subscription-form input {
+        height: 56px;
+        font-size: 16px;
+    }
+    .col-lg-4.col-md-4.ml-0 {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+    header {
+        padding: 12px 0px;
+    }
+    .main_menu ul li {
+        display: inline;
+        margin-left: 15px;
+    }
+    .involved-item {
+        height: 350px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .author span {
+        margin-right: 8px;
+        font-size: 13px;
+    }
+    .slide-2 .news-slide-item p {
+        font-size: 15px;
+    }
+    .footer-link h4 {
+        font-size: 20px;
+    }
+    .subscription h4 {
+        font-size: 20px;
+    }
+    .subscription-form button {
+        font-size: 16px;
+    }
+    .footer-logo img {
+        width: 185px;
+        margin-left: -10px;
+    }
+    .footer-logo img {
+        width: 185px
+    }
+    .news-slider {
+        padding: 0 40px;
+    }
+    .news-slider .owl-prev {
+        left: 0;
+    }
+    .news-slider .owl-next {
+        right: 0;
+    }
+    .news-slider .owl-nav div {
+        top: 28%;
+    }
+    .news-slide-item h3 {
+        font-size: 24px;
+    }
+    .common-btn {
+        padding: 10px 26px;
+        letter-spacing: 0px;
+        font-size: 15px;
+    }
+    .by-box p {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .involved-item {
+        padding: 25px 10px;
+        height: 300px;
+    }
+    .involved-item p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .hero-area {
+        margin-top: 80px;
+    }
+    .Page_banner {
+        margin-top: 80px;
+    }
+    .Page_banner {
+        margin-top: 80px;
+    }
+    .social-area {
+        margin-top: 30px;
+        text-align: right;
+    }
+    .area-title h2 {
+        font-size: 36px;
+    }
+    .area-title p {
+        font-size: 20px;
+    }
+    .whatdo-box h4 {
+        font-size: 22px;
+    }
+    .whatdo-box p {
+        font-size: 20px;
+    }
+    .whatdo-box {
+        margin: 0px;
+    }
+    .whatdo-box img {
+       width: 100%;
+    }
+ 
+    
+    .values-text p {
+        font-size: 18px;
+    }
+    .values-text h4 {
+        font-size: 24px;
+    }
+    .Page_banner {
+        height: 350px;
+    }
+    .hero-area {
+        height: 450px;
+    }
+    .event-feature-txt p {
+        font-size: 16px;
+        
+    }
+    .event-feature-txt a {
+        padding: 10px 45px;
+        margin-top: 5px;
+    }
+    .event-feature-txt h2 {
+        font-size: 36px;
+        margin-bottom: 15px;
+    }
+    .hero-text h1 {
+        font-size: 60px;
+    }
+    .hero-text p {
+        font-size: 24px;
+    }
+    .problm-txt {
+        padding-bottom: 35px;
+    }
+
+    .involved-area {
+        background: #EDEDED;
+        padding-bottom: 70px;
+        padding-top: 135px;
+    }
+    .main-news-area {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .bynumber-box {
+        width: 50%;
+        height: 400px;
+    }
+    .news-slide-item a {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .bynumber-inner p {
+        font-size: 28px;
+    }
+    .bynumber-area h2 {
+        font-size: 60px;
+    }
+    .our-values-area {
+        margin-top: 40px;
+    }
+    .area-title p br {
+        display: none;
+    }
+    .event-feature-txt h2 {
+        font-size: 26px;
+    }
+    .event-feature-txt p {
+        letter-spacing: 0;
+    }
+    .article-title h2 {
+        font-size: 32px;
+    }
+    .article-content p {
+        font-size: 18px;
+    }
+    .qut-txt p {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    .Page_banner.article-banner {
+        height: 350px;
+    }
+    .pack-btn button {
+        font-size: 18px;
+        height: 60px;
+    }
+    .custom-dnt-btn button {
+        height: 60px;
+        font-size: 18px;
+    }
+    .belling-info-field input {
+        height: 60px;
+        padding: 20px;
+        font-size: 18px;
+    }
+    .belling-info-field .nice-select {
+        height: 60px;
+        font-size: 18px;
+        line-height: 60px;
+        padding: 0 20px;
+    }
+    .belling-info-field label {
+        font-size: 18px;
+    }
+    .acdept-trms p {
+        font-size: 16px;
+    }
+    .donate-now-btn button {
+        height: 60px;
+        font-size: 18px;
+    }
+    .custom-amount {
+        height: 60px;
+    }
+    .pack-btn button {
+        font-size: 18px;
+        height: 60px;
+        margin: 5px;
+    }
+    .belling-info h2 {
+        font-size: 30px;
+    }
+    .started-btn a {
+        font-size: 18px;
+        padding: 12px 40px;
+        width: auto;
+    }
+    .started-txt p {
+        font-size: 18px;
+    }
+    .calander-ion {
+        font-size: 50px;
+    }
+    .started-content p {
+        font-size: 18px;
+    }
+    .tropicals-organizer-area {
+        padding-bottom: 30px;
+    }
+    .team-single {
+        background: #fff;
+        padding: 40px 20px;
+        margin: 0;
+    }
+    .team-single img {
+        max-width: 150px;
+        border-radius: 36px;
+        margin-bottom: 30px;
+    }
+    .team-txt h4 {
+        font-size: 24px;
+        letter-spacing: 0;
+        margin-bottom: 10px;
+    }
+    .team-txt p {
+        font-size: 20px;
+    }
+    .zoom-logo img {
+        width: 200px;
+    }
+    .involved-warp .team-single {
+        margin: 25px 0px;
+    }
+    .action-txt {
+        padding-left: 0 !important;
+    }
+    .action-txt h2 {
+        font-size: 20px;
+    }
+    .action-txt h2 br {
+        display: none;
+    }
+
+
+    .modal-dialog {
+        max-width: 700px;
+        margin: 1.75rem auto;
+    }
+    .congras-right-inner {
+        padding: 30px 25px;
+        padding-top: 60px;
+    }
+    .congrats-left {
+        width: 50%;
+        padding: 35px 25px;
+    }
+    .congrats-left p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .congrats-left h4 {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .share-txt p {
+        font-size: 16px;
+        max-width: 330px;
+    }
+    .share-btn a {
+        width: 45%;
+    }
+    .congrats-title h2 {
+        font-size: 26px;
+    }
+    .share-title h3 {
+        font-size: 22px;
+    }
+    .congrats-warp {
+        display: inline-block;
+        width: 100%;
+        height: 450px;
+    }
+    .share-btn a {
+        color: #fff;
+        letter-spacing: 0;
+        font-size: 14px;
+    }
+    .modal-body {
+        padding: 35px;
+    }
+    .congrats-title {
+        margin-bottom: 30px;
+    }
+    .modal-clg {
+        font-size: 26px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .header-right {
+        display: none;
+    }
+   
+    header {
+        padding: 12px 0px;
+    }
+    .logo img {
+        width: 140px;
+    }
+    .hero-area {
+        margin-top: 70px;
+        height: 250px;
+    }
+    .Page_banner {
+        margin-top: 70px;
+    }
+    .section-padding {
+        padding: 80px 0;
+    }
+    .title {
+        text-align: center;
+        font-size: 32px;
+        margin-bottom: 50px;
+    }
+    .our-mission-area p {
+        font-size: 16px;
+        text-align:center;
+    }
+    .involved-item img {
+        width: 60px;
+        margin-bottom: 25px;
+    }
+    .involved-item p {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+    .involved-item h2 {
+        font-size: 32px;
+    }
+    .involved-item {
+        height: 400px;
+        margin-bottom: 35px;
+    }
+    .news-slide-item p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .news-slide-item p:last-child {
+        font-size: 16px;
+    }
+    .author span {
+        letter-spacing: 0;
+        margin-right: 22px;
+        font-size: 16px;
+    }
+    .donate-area h2 {
+        font-size: 28px;
+    }
+    .donate-area a {
+        font-size: 18px;
+    }
+    .bynumber-area h2 {
+        font-size: 28px;
+    }
+    .by-box {
+        width: 33.33%;
+        padding: 25px 0px;
+    }
+    .by-box h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .by-box p {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .footer-logo img {
+        width: 190px;
+        margin-left: 0;
+    }
+    .ml-0 {
+        margin-left: 0 !important;
+        padding-left: 15px !important;
+    }
+    .footer-logo {
+        margin-bottom: 30px;
+    }
+    .footer-left p {
+        font-size: 18px;
+    }
+    .footer-left a {
+        font-size: 18px;
+    }
+    .footer-link h4 {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .footer-link {
+        padding-top: 10px;
+        margin: 25px 0;
+    }
+    .footer-link ul li a {
+        font-size: 18px;
+    }
+    .subscription h4 {
+        font-size: 18px;
+        letter-spacing: 0;
+        margin-bottom: 20px;
+    }
+    .subscription p {
+        font-size: 15px;
+    }
+    .subscription-form input {
+        height: 56px;
+        font-size: 18px;
+    }
+    .subscription-form button {
+        height: 56px;
+        padding: 0 50px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .copyright p {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    .subscription {
+        padding-top: 10px;
+        margin-top: 35px;
+    }
+    .subscription-form {
+        margin: 35px 0;
+    }
+    footer {
+        padding-top: 80px;
+    }
+    .logo {
+        display: inline-block;
+    }
+    .header-left {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu_trigger {
+        width: 28px;
+        display: block;
+        cursor: pointer;
+      }
+      .menu_trigger span {
+        display: block;
+        width: 100%;
+        height: 2px;
+        background: #000;
+      }
+      .menu_trigger span:nth-child(2) {
+        margin: 6px 0;
+      }
+      .news-slider .owl-nav {
+        display: none;
+    }
+
+    .involved-area {
+        padding-bottom: 70px;
+        padding-top: 135px;
+        margin-top: 16px;
+        padding-top: 120px !important;
+    }
+    .slide-menu.active {
+        right: 0;
+        visibility: visible;
+    }
+    .news-slider .owl-controls {
+        margin-top: 50px;
+        text-align: center;
+    }
+   
+    .news-slider .owl-dots {
+        display: block !important;
+    }
+    .area-title p {
+        font-size: 17px;
+    }
+    .area-title h2 {
+        font-size: 32px;
+    }
+
+
+    .news-slide-item h3 {
+        font-size: 22px;
+    }
+    .whatdo-box h4 {
+        font-size: 24px;
+    }
+    .whatdo-box p {
+        font-size: 22px;
+    }
+  
+    .values-single {
+        display: block;
+        text-align: center;
+    }
+    .values-text p {
+        font-size: 18px;
+    }
+    .values-icon {
+        margin-bottom: 25px;
+    }
+    .values-icon i{
+        margin: 0;
+    }
+    .values-text h4 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+    .whatdo-page .donate-area {
+        margin-bottom: 100px !important;
+    }
+    .Page_banner {
+        height: 220px;
+    }
+    .event-feature-txt a {
+        padding: 10px 45px;
+        margin-top: 5px;
+    }
+    .event-feature-txt h2 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .event-feature-txt p {
+        font-size: 16px;
+        
+    }
+    .event-feature-txt {
+        padding: 0 !important;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .event-features-area h2.title{
+        margin-bottom: 0;
+    }
+    .hero-text h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .hero-text p {
+        font-size: 16px;
+        color: #fff;
+        letter-spacing: 0;
+        font-weight: 500;
+    }
+    .bynumber-box {
+        width: 100%;
+    }
+    .bynumber-inner p {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .bynumber-area h2 {
+        font-size: 55px;
+    }
+    .shape2 {
+        display: block;
+    }
+    
+    .our-mission-area {
+        padding-bottom: 25px;
+    }
+    .our-values-area .title {
+        margin-top: 50px;
+    }
+    .our-values-area {
+        margin-top: 70px;
+    }
+    .values-icon {
+        margin-right: 0;
+    }
+    .maptop-area .area-title {
+        margin-bottom: 70px;
+        margin-top: 50px;
+    }
+    .whatdo-box {
+        margin: 25px 0;
+    }
+    .event-features-area {
+        padding-top: 50px;
+    }
+    .mission-title {
+        margin-bottom: 40px;
+    } 
+    .area-title p br {
+        display: none;
+    }
+    .event-feature-txt h2 {
+        font-size: 26px;
+    }
+    .event-feature-txt p {
+        letter-spacing: 0;
+    }
+    .article-title h2 {
+        font-size: 24px;
+    }
+    .article-content p {
+        font-size: 16px;
+    }
+    .qut-txt p {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    .Page_banner.article-banner {
+        height: 240px;
+    }
+    .artile-author li {
+        font-size: 18px;
+    }
+    .artile-author li {
+        font-size: 18px;
+        margin: 0 15px;
+    }
+    .artile-author li i {
+        font-size: 17px;
+    }
+    .pack-btn button {
+        font-size: 18px;
+        height: 60px;
+    }
+    .custom-dnt-btn button {
+        height: 60px;
+        font-size: 18px;
+    }
+    .belling-info-field input {
+        height: 60px;
+        padding: 20px;
+        font-size: 18px;
+    }
+    .belling-info-field .nice-select {
+        height: 60px;
+        font-size: 18px;
+        line-height: 60px;
+        padding: 0 20px;
+    }
+    .belling-info-field label {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .acdept-trms p {
+        font-size: 16px;
+    }
+    .donate-now-btn button {
+        height: 60px;
+        font-size: 18px;
+    }
+    .custom-amount {
+        height: 60px;
+    }
+    .pack-btn button {
+        font-size: 18px;
+        height: 60px;
+        margin: 5px;
+    }
+    .belling-info h2 {
+        font-size: 20px;
+    }
+    .for-mb {
+        margin-bottom: 25px;
+    }
+    .single-pack {
+        margin-right: 40px;
+        margin-bottom: 25px;
+    }
+    .custom-dnt-btn button {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .custom-amount input {
+        font-size: 20px;
+        padding-left: 50px;
+    }
+    .custom-amount span {
+        left: 20px;
+        font-size: 22px;
+    }
+    .started-btn {
+        text-align: left;
+        margin-top: 35px;
+    }
+    .started-btn a {
+        font-size: 18px;
+        padding: 15px 0px;
+        border-radius: 15px;
+        margin-left: 0px;
+        width: 250px;
+        text-align: left;
+        padding-left: 25px;
+    }
+    .started-txt p {
+        margin: 5px 0;
+        font-size: 18px;
+    }
+    .calander-ion {
+        font-size: 50px;
+    }
+    .started-btn a:first-child {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .started-content p {
+        font-size: 16px;
+    }
+    .team-area .area-title {
+        margin-bottom: 70px;
+        padding-top: 50px;
+    }
+    .zoom-logo img {
+        width: 200px;
+    }
+    .team-txt h4 {
+        font-size: 24px;
+    }
+    .team-txt p {
+        font-size: 20px;
+    }
+    .action-txt {
+        text-align: center;
+        margin: 50px 0;
+    }
+    .action-txt h2 {
+        font-size: 24px;
+    }
+    .action-txt h2 {
+        font-size: 24px;
+    }
+    .quote-3 {
+        display: none;
+    }
+    .stroy-thumb {
+        position: absolute;
+        left: 50px;
+        bottom: -60px;
+        width: 160px;
+    }
+    .main-story-box {
+        max-width: 100%;
+        margin: 0 auto;
+        position: relative;
+        padding-bottom: 100px;
+    }
+    .story-box {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 40px;
+        left: 0;
+        padding-bottom: 140px !important;
+    }
+    .story-content h4 {
+        font-size: 24px;
+    }
+    .testimonial-tablist ul {
+        display: block;
+    }
+    .testimonial-tablist ul li {
+        background: transparent;
+        text-align: left;
+        width: 33.33%;
+        float: left;
+    }
+    .testimonial-tablist li h4 {
+        font-size: 18px;
+    }
+    .testimonial-tablist li a {
+        padding-left: 5px;
+        border-left: 2px solid #707070;
+    }
+    .testimonial-tablist li span {
+        font-size: 13px;
+    }
+    .story-content {
+        max-width: 350;
+        margin: 0 auto;
+        margin-right: 0px;
+        padding-right: 0;
+    }
+    .congrats-title h2 {
+        font-size: 17px;
+    }
+    .modal-body {
+        padding: 30px 20px;
+    }
+    .congrats-left {
+        width: 100%;
+        height: 100%;
+        display: block;
+        padding: 15px;
+    }
+    .congras-right-inner {
+        padding: 30px 20px;
+    }
+    .congrats-warp {
+        display: inline-block;
+        width: 100%;
+        height: auto;
+    }
+    .congrats-right {
+        width: 100%;
+        float: left;
+        height: auto;
+        display: block;
+    }
+    .congrats-left p {
+        color: #FFFFFF;
+        font-size: 17px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .congrats-left h4 {
+        font-size: 22px;
+        margin-top: 2px;
+        text-align: center;
+    }
+    .left-cngts h4 br {
+        display: none;
+    }
+    .share-txt p {
+        font-size: 16px;
+        font-weight: 500;
+        max-width: 400px;
+        text-align: center;
+        padding-top: 55px;
+    }
+    .share-title h3 {
+        margin: 0;
+        font-size: 20px;
+    }
+    .modal-clg {
+        right: 7px;
+        top: 8px;
+        font-size: 20px;
+    }
+    .share-btn a {
+        display: inline-block;
+        width: 45%;
+        text-align: center;
+        padding: 8px 0;
+        border-radius: 30px;
+        background: rgb(79, 181, 56, .8);
+        color: #fff;
+        letter-spacing: 0;
+        margin:4px ;
+        font-size: 14px;
+    }
+
+    .share-txt {
+        margin-bottom: 25px;
+    }
+    .congrats-title {
+        margin-bottom: 30px;
+    }
+    .zoom-logo img {
+        width: 150px;
+    }
+    .team-area.get-involved-area {
+        padding: 100px 0;
+        padding-bottom: 35px;
+        padding-top: 30px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 556px) and (max-width: 767px) {
+
+    .bynumber-box {
+        width: 50%;
+        height: 300px;
+    }
+    .bynumber-inner p {
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .bynumber-area h2 {
+        font-size: 40px;
+        margin-bottom: 50px;
+    }
+    .bynumber-inner {
+        padding: 40px 25px;
+    }
+    .bynumber-inner h2 span {
+        font-size: 35px;
+    }
+    .our-values-area {
+        margin-top: 50px;
+    }
+    .values-icon {
+        margin-right: 0;
+    }
+   
+
+
+
+
+}
